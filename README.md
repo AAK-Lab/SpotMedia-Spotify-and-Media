@@ -25,7 +25,7 @@
 To install **SpotMedia**, follow these steps:
 
 1. **Download the Executables from releases**: 
-   Download the `SpotMedia.exe`,`config.exe`and `config.ini` files from the releases section of this repository  **[CLICK HERE](https://github.com/AAK-Lab/SpotMedia-Spotify-Light-Player/releases/tag/SpotMedia)**
+   Download the `SpotMedia.exe`,`config.exe`and `config.ini` files from the releases section of this repository  **[CLICK HERE]([https://github.com/AAK-Lab/SpotMedia-Spotify-Light-Player/releases/tag/SpotMedia](https://github.com/AAK-Lab/SpotMedia-Spotify-and-Media/releases/download/Spotify%2BMedia%3DSpotMedia/SpotMediaFull.zip))**
 .
 
 2. **Run the Configuration Application**: 
